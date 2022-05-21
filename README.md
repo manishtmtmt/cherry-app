@@ -1,2 +1,2 @@
-# cherry-app
+# cherry-clone
 Created with CodeSandbox
